@@ -3,7 +3,7 @@
 Requirements:
 <ul>
     <li>D7 connected to A1 with a wire (Reset of Display)</li>
-    <li>Display in SLot 1 of Click Board</li>
+    <li>Display (MikroElektronika oled_c v101, SSD1351) in Slot 1 of Click Board</li>
     <li>LDC1000 in Slot 2 of Click Board</li>
     <li>USART Initalized</li>
     <li>USART DMA Channels configured and Inizalized</li>
